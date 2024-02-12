@@ -21,6 +21,8 @@ public class Square {
         ar=B.area();
         pe=B.perimeter();
         System.out.println("The area of rectangle is "+ar+" and perimeter is "+pe);
+
+        System.out.println("Hello World");
     }
 }
 
